@@ -1,8 +1,8 @@
 # NuclearData
 
-Follow me at https://twitter.com/NuclearData
+Twitter bot, follow me at https://twitter.com/NuclearData
 
-Twitter bot, mention me for info about a nuclear country
+Mention me for info about a nuclear country
 
 Data from http://pris.iaea.org
 
