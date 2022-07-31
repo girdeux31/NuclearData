@@ -17,8 +17,8 @@ LT, MX, NL, PK, RO, RU, SE, SI
 SK, TR, UA, US, ZA
 
 For example:
- @NuclearData in Spain
- @NuclearData in FR
- @NuclearData in World
+- @NuclearData in Spain
+- @NuclearData in FR
+- @NuclearData in World
 
 Ready to run in Heroku
